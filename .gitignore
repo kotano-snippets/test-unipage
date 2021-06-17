@@ -1,0 +1,9 @@
+*
+!.gitignore
+
+!README.md
+!badcode.js
+!goodcode.js
+
+!docs
+!docs/**
